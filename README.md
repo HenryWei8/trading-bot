@@ -4,14 +4,12 @@ A lightweight Python service that monitors Polymarket markets for BTC mispricing
 
 ---
 
-## ⚙️ Architecture
-
-![Pipeline Diagram](assets/architecture-diagram.png)  
+## Architecture
 *Data ingestion → P&L calculation → Alert dispatch*
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Real-time scanning** of BTC markets on Polymarket  
 - **Automated P/L computation** across multiple strike thresholds  
@@ -20,7 +18,7 @@ A lightweight Python service that monitors Polymarket markets for BTC mispricing
 
 ---
 
-## 🔧 Quickstart
+## Quickstart
 
 ```bash
 git clone git@github.com:henrywei8/trading-bot.git
